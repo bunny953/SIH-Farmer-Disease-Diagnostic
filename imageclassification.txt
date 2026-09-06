@@ -1,0 +1,10 @@
+what image classification is 
+binary classification 
+multiclass classification 
+labels/classes 
+training data 
+validation data 
+test data 
+class imbalance 
+overfitting 
+underfitting 

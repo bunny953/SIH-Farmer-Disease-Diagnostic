@@ -1,0 +1,41 @@
+image 
+convolution 
+filters/kernels 
+reLU
+pooling 
+more convolution layer 
+flatten 
+dense layer 
+softmax 
+prediction
+
+===============CNN Training ===============
+Epoch 
+Batch 
+Learning rate 
+loss
+Optimizer
+Adam 
+Backproporgation 
+Training Accuracy 
+Validation Accuracy 
+Training loss 
+Validation loss 
+Early stopping 
+
+==================TRANSFER LEARNING==================
+pretrained model 
+feature extraction 
+freezing layers 
+fine tuning 
+Data Augmentation with transfer learning 
+Mobile Netv2 , resNet , EfficientNet => Models 
+
+==================MODEL EVALUTION ========================
+Accuracy 
+Precision 
+Recall 
+F1 score 
+Confusion Matrix 
+Claasification Report 
+
